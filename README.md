@@ -53,4 +53,4 @@ Não entendo direito para que serve o `comando document.getElementById()` da lin
 
 ## Emojis
 
-Olá, pequeno Gafanhoto 
+Olá, pequeno Gafanhoto 🖖
